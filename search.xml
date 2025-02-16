@@ -124,6 +124,11 @@ themes
 <li>hexo c; hexo g; hexo s</li>
 <li>hexo c; hexo g; hexo d</li>
 </ul>
+<p>再推荐一个图床：<a href="https://www.superbed.cn/">聚合图床 - 免费无限图片上传</a></p>
+<ul>
+<li>赋值的图片直接拷贝到页面，自动生成markdown链接，粘贴链接到文章，不管有没有显示图片，不需要管，直接本地服务启动查看就行</li>
+<li><img src="https://pic1.imgdb.cn/item/67b141eed0e0a243d4ffb912.png"></li>
+</ul>
 </blockquote>
 <ul>
 <li>hexo c<ul>
